@@ -1,7 +1,7 @@
 # **Mach 6 Solutions**
 ## Engineering Consultancy for Carbon Capture Solutions
 
-![Trees](https://github.com/user-attachments/assets/26129cc6-0b12-4af8-9add-3a0de7e4b1e9)
+<div>background-color:![Trees](https://github.com/user-attachments/assets/26129cc6-0b12-4af8-9add-3a0de7e4b1e9)
 
 <!DOCTYPE html>
 <html lang="en">
@@ -26,15 +26,15 @@
     <main>
         <section id="home">
             <h2>Home</h2>
-            <p>Welcome to our business website!</p>
+            <p>Welcome to our user friendly website!</p>
         </section>
         <section id="about">
             <h2>About Us</h2>
-            <p>Information about your business.</p>
+            <p>Net zero future.</p>
         </section>
         <section id="services">
             <h2>Services</h2>
-            <p>Details of the services you offer.</p>
+            <p>Bespoke carbon capture reactor</p>
         </section>
         <section id="contact">
             <h2>Contact</h2>
@@ -42,7 +42,7 @@
         </section>
     </main>
     <footer>
-        <p>© 2024 Your Business Name. All rights reserved.</p>
+        <p>© 2024 Mach 6 Solutions. All rights reserved.</p>
     </footer>
 </body>
 </html>
