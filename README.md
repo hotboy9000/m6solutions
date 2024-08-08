@@ -13,7 +13,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to Your Business</h1>
+        <h1>Welcome to a Cleaner Industrial Future </h1>
         <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
