@@ -1,2 +1,2 @@
-# M6solutions
-Engineering consultancy for carbon capture solutions
+# **Mach 6 Solutions**
+## Engineering Consultancy for Carbon Capture Solutions
